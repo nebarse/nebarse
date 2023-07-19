@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h2> I am Bethelhem Kassa!<img src = "https://www.pinterest.com.au/pin/684617580843398523"/ </h2>
 <!--
 **nebarse/nebarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
