@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> I am Bethelhem Kassa!<img src = "https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J.gif"/ </h2>
+<h2> I am Bethelhem Kassa!<img src = "https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif"/ </h2>
 <!--
 **nebarse/nebarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
