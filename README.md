@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2> I am Bethelhem Kassa!<img src = "[https://www.pinterest.com.au/pin/684617580843398523](https://www.pinclipart.com/downpngs/xmToix_school-teacher-female-teacher-clipart-png-download/)"/ </h2>
+<h2> I am Bethelhem Kassa!<img src = "https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J.gif"/ </h2>
 <!--
 **nebarse/nebarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
